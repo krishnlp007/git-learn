@@ -1,3 +1,3 @@
 # git-learn
 
-Github dummy remo
+Github dummy repo
